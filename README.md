@@ -14,11 +14,11 @@ Aspiring Business Analyst/Consultant | Power BI | SQL | Python
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow)
-![SQL](https://img.shields.io/badge/SQL-grey)
+![Python](https://img.shields.io/badge/Python-2475D1)
+![Power BI](https://img.shields.io/badge/PowerBI-F7FA61)
+![SQL](https://img.shields.io/badge/SQL-86B3C4)
 ![Excel](https://img.shields.io/badge/Excel-green)
-![Lightroom](https://img.shields.io/badge/AdobeLightroom-blue)
+![Lightroom](https://img.shields.io/badge/AdobeLightroom-06749E)
 ![Resolve](https://img.shields.io/badge/DavinciResolve-798994)
 
 ---
