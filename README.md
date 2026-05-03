@@ -18,8 +18,8 @@ Aspiring Business Analyst/Consultant | Power BI | SQL | Python
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow)
 ![SQL](https://img.shields.io/badge/SQL-grey)
 ![Excel](https://img.shields.io/badge/Excel-green)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge\&logo=adobe-lightroom\&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge\&logo=davinciresolve\&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge\&logo=adobe\&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge\&logo=blackmagicdesign\&logoColor=white)
 
 ---
 
