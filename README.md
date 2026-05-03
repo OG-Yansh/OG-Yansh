@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priyansh
 
-Aspiring Business Analyst/Consultant | Power BI | SQL | Python
+An Aspiring Business Analyst/Consultant | Power BI | SQL | Python
 
 ---
 
@@ -24,9 +24,4 @@ Aspiring Business Analyst/Consultant | Power BI | SQL | Python
 
 ---
 
-## 📂 Projects
-
-* 📌 Customer Churn Analysis
-* 📌 Weather Analytics App
-* 📌 Medical Chatbot (RAG)
 
