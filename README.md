@@ -7,8 +7,8 @@ Aspiring Business Analyst/Consultant | Power BI | SQL | Python
 ## 🚀 About Me
 
 * 📊 Interested in Business Analytics & Consulting
-* 🧠 Learning: Advanced SQL, Case Studies
-* ⚡ Building data-driven projects
+* 🧠 Learning: Advanced SQL, Power-BI, Case Studies
+* ⚡ Building data-driven Case Study projects
 
 ---
 
@@ -29,6 +29,3 @@ Aspiring Business Analyst/Consultant | Power BI | SQL | Python
 * 📌 Weather Analytics App
 * 📌 Medical Chatbot (RAG)
 
----
-
-[LinkedIn](your-link-here)
