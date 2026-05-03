@@ -19,7 +19,7 @@ Aspiring Business Analyst/Consultant | Power BI | SQL | Python
 ![SQL](https://img.shields.io/badge/SQL-grey)
 ![Excel](https://img.shields.io/badge/Excel-green)
 ![Lightroom](https://img.shields.io/badge/AdobeLightroom-blue)
-![Resolve](https://img.shields.io/badge/DavinciResolve-#798994)
+![Resolve](https://img.shields.io/badge/DavinciResolve-798994)
 
 ---
 
