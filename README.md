@@ -6,7 +6,8 @@ Aspiring Business Analyst/Consultant | Power BI | SQL | Python
 
 ## 🚀 About Me
 
-* 📊 Interested in Business Analytics & Consulting
+* 📊 Interested in Business Analytics & Consulting Domain
+* 💡Fascinated by the intericate details and cross-dimentionality of Business Cases
 * 🧠 Learning: Advanced SQL, Power-BI, Case Studies
 * ⚡ Building data-driven Case Study projects
 
